@@ -1,0 +1,16 @@
+{
+  "name": "raspisanie-sze",
+  "version": "1.0.0",
+  "description": "Расписание СЭЗ-24-2 подгруппа 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.11.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
